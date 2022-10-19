@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SbomSubmit": {
+      "commandName": "Project",
+      "commandLineArgs": "-p Test -v 1.0.0 -b C:\\Source\\bae\\flask-examples\\cyclonedxold.fmt -s http://localhost:8081/api -k VsIn65wdgYyFTbEkSxW2ceNTFrmFsNEs"
+    }
+  }
+}
